@@ -1,4 +1,4 @@
-# 👨‍💻 **Bhupesh Kushwaha - Full Stack Developer | Solution Architect (Desiner)**
+# 👨‍💻 **Bhupesh Kushwaha - Full Stack Developer | Designer (Solution Architect)**
 
 Welcome to my GitHub! 🚀  
 I’m an experienced **Software Engineer** with over **11 years of expertise** in **PHP frameworks**, **front-end technologies**, and **full software development life cycle (SDLC)** leadership. My passion lies in creating efficient, scalable, and high-performance web applications using **Agile**, **Scrum**, and **Microservices** architectures. I am also skilled in **cloud technologies** and building secure, seamless systems.
