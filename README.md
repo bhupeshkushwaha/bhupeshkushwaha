@@ -1,7 +1,20 @@
-# 👨‍💻 **Bhupesh Kushwaha - Full Stack Developer | Designer (Solution Architect)**
+<h1 align="center">👨‍💻 Bhupesh Kushwaha - Full Stack Developer | Designer (Solution Architect) 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Software+Engineer+%7C+Tech+Mentor;12%2B+Years+of+Coding+Experience;PHP+AWS+Microservices+Agile+Cloud;Building+Scalable+%26+Innovative+System;Welcome+to+My+GitHub+Profile!" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhupeshkushwaha&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Experience-12%2B%20Years-brightgreen?style=flat-square" alt="Experience Badge" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-blue?style=flat-square" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-red?style=flat-square" alt="Open Source Badge" />
+</p>
+
+---
 
 Welcome to my GitHub! 🚀  
-I’m an experienced **Software Engineer** with over **11 years of expertise** in **PHP frameworks**, **front-end technologies**, and **full software development life cycle (SDLC)** leadership. My passion lies in creating efficient, scalable, and high-performance web applications using **Agile**, **Scrum**, and **Microservices** architectures. I am also skilled in **cloud technologies** and building secure, seamless systems.
+I’m an experienced **Software Engineer** with over **12+ years of expertise** in **PHP frameworks**, **front-end technologies**, and **full software development life cycle (SDLC)** leadership. My passion lies in creating efficient, scalable, and high-performance web applications using **Agile**, **Scrum**, and **Microservices** architectures. I am also skilled in **cloud technologies** and building secure, seamless systems.
 
 ---
 
