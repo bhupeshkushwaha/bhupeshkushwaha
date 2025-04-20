@@ -52,8 +52,14 @@ I’m currently focused on enhancing **AI/ML** solutions and diving deep into **
 ---
 
 ## 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhupeshkushwaha&show_icons=true&theme=radical&count_private=true" alt="Bhupesh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshkushwaha&theme=radical" alt="GitHub Streak" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhupeshkushwaha&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhupeshkushwaha&theme=radical" alt="GitHub Activity Graph" />
+</p>
 
 ### **Top Languages:**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhupeshkushwaha&layout=compact&theme=radical)
