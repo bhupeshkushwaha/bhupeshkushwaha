@@ -66,6 +66,15 @@ I’m currently focused on enhancing **AI/ML** solutions and diving deep into **
 
 ---
 
+## 🛠️ Tech Stack
+
+| **Languages** | **Frontend** | **Backend** | **DevOps / Tools** | **Cloud** |
+|:-------------:|:------------:|:-----------:|:------------------:|:---------:|
+| PHP, JavaScript, Python, C#, SQL, MongoDB | React JS, Vue JS, HTML5, CSS3, TailwindCSS, Next.js | Laravel, Magento 2, WordPress, CodeIgniter, Node.js, Django | Docker, Kubernetes, Jenkins, GitLab CI/CD, GitHub Actions, Bitbucket Pipelines | AWS, Azure, Firebase, Heroku |
+| PostgreSQL, MySQL, Redis | Design Systems, UI Libraries | RESTful APIs, GraphQL, Microservices | CI/CD Pipelines, DevOps, Agile, Scrum | Serverless (Lambda, Firebase Functions) |
+
+---
+
 ## 🌍 **Let’s Connect**
 
 I love connecting with other developers and sharing knowledge. If you’re interested in collaborating or have any questions, feel free to reach out!
